@@ -5,6 +5,8 @@ In this assignment, we were asked to build a quiz from the ground uo using HTML,
 The idea was to have a series of questions that the user was asked. The score was contingent on a timer counting down throughout the quiz.
 An incorrect answer deducted time from the clock, and reduced your overall score. 
 
+Link to deployed application here: https://jamesbroski.github.io/CodeQuiz/
+
 Below is a screenshot of what the user might see when taking the quiz:
 
 
